@@ -1,0 +1,67 @@
+{
+  "name": "equanimitech",
+  "owner": {
+    "name": "EquanimiTech",
+    "url": "https://equanimi.tech"
+  },
+  "metadata": {
+    "description": "The equanimitech instruments as Claude Code plugins. Each instrument lives in its own repo.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "oliba",
+      "source": {
+        "source": "github",
+        "repo": "equanimitech/oliba"
+      },
+      "description": "Agent-native spaced repetition for Claude Code. Map a topic, learn it one piece at a time, and keep it with FSRS reviews and a one-card status-line cue. Grounded in Scott Young's Ultralearning. Local-first, anti-guilt.",
+      "category": "learning",
+      "keywords": [
+        "learning",
+        "spaced-repetition",
+        "ultralearning",
+        "retrieval-practice",
+        "calm-technology",
+        "equanimitech"
+      ]
+    },
+    {
+      "name": "zenborg",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/equanimitech/zenborg.git",
+        "path": "plugin",
+        "ref": "main"
+      },
+      "description": "The garden's Claude Code surface — fences, gap practice, activity log, and garden skills (sunrise, sunset, close-up, recap, tend, season). Local-first, reads the vault you already have.",
+      "category": "productivity",
+      "keywords": [
+        "garden",
+        "rituals",
+        "intention",
+        "fences",
+        "attention",
+        "calm-technology",
+        "equanimitech"
+      ]
+    },
+    {
+      "name": "attently",
+      "source": {
+        "source": "github",
+        "repo": "equanimitech/attently"
+      },
+      "description": "Adaptive granularity for AI assistants. Sorts every reply by what it costs you to read: the verdict at a glance, the working one click away, unexplored branches only if you ask. Stores nothing, blocks nothing, watches nothing.",
+      "category": "productivity",
+      "keywords": [
+        "granularity",
+        "attention",
+        "response-depth",
+        "progressive-disclosure",
+        "calm-technology",
+        "equanimitech"
+      ]
+    }
+  ]
+}
