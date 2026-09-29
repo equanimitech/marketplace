@@ -52,7 +52,7 @@
         "source": "github",
         "repo": "equanimitech/attently"
       },
-      "description": "Adaptive granularity for AI assistants. Sorts every reply by what it costs you to read: the verdict at a glance, the working one click away, unexplored branches only if you ask. Stores nothing, blocks nothing, watches nothing.",
+      "description": "Adaptive granularity for AI assistants. Sorts every reply by what it costs you to read: the verdict at a glance, the working one click away, unexplored branches only if you ask. Inside cmux, an opt-in ring ranks your Claude sessions against today's priorities so only what needs you reaches you. Blocks nothing.",
       "category": "productivity",
       "keywords": [
         "granularity",
@@ -60,7 +60,8 @@
         "response-depth",
         "progressive-disclosure",
         "calm-technology",
-        "equanimitech"
+        "equanimitech",
+        "cmux"
       ]
     }
   ]
