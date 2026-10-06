@@ -63,6 +63,23 @@
         "equanimitech",
         "cmux"
       ]
+    },
+    {
+      "name": "murmur",
+      "source": {
+        "source": "github",
+        "repo": "equanimitech/murmur"
+      },
+      "description": "macOS only. Turns Apple Voice Memos into markdown transcripts, locally. Uses Apple's own transcript when the memo is English, whisper.cpp otherwise. The skill syncs, then reviews what you haven't read yet: gist, decisions, actions.",
+      "category": "productivity",
+      "keywords": [
+        "voice-memos",
+        "transcription",
+        "whisper",
+        "macos",
+        "local-first",
+        "equanimitech"
+      ]
     }
   ]
 }
