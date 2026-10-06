@@ -12,6 +12,7 @@ claude plugin install oliba@equanimitech
 | `oliba` | agent-native spaced repetition: map a topic, learn it one piece at a time, keep it | [equanimitech/oliba](https://github.com/equanimitech/oliba) |
 | `zenborg` | the garden: fences, gap practice, activity log, garden skills | [equanimitech/zenborg](https://github.com/equanimitech/zenborg) (`plugin/`) |
 | `attently` | adaptive granularity: verdict at a glance, working one click away | [equanimitech/attently](https://github.com/equanimitech/attently) |
+| `murmur` | macOS voice memos to local markdown transcripts; sync and review | [equanimitech/murmur](https://github.com/equanimitech/murmur) |
 
 ## Adding an instrument
 
