@@ -15,7 +15,7 @@
         "source": "github",
         "repo": "equanimitech/oliba"
       },
-      "description": "Agent-native spaced repetition for Claude Code. Map a topic, learn it one piece at a time, and keep it with FSRS reviews and a one-card status-line cue. Grounded in Scott Young's Ultralearning. Local-first, anti-guilt.",
+      "description": "Agent-native spaced repetition for Claude Code. Map a topic, learn it one piece at a time, and keep it with FSRS reviews: one due card waits above the prompt while Claude works. Grounded in Scott Young's Ultralearning. Local-first, anti-guilt.",
       "category": "learning",
       "keywords": [
         "learning",
@@ -52,7 +52,7 @@
         "source": "github",
         "repo": "equanimitech/attently"
       },
-      "description": "Adaptive granularity for AI assistants. Sorts every reply by what it costs you to read: the verdict at a glance, the working one click away, unexplored branches only if you ask. Inside cmux, an opt-in ring ranks your Claude sessions against today's priorities so only what needs you reaches you. Blocks nothing.",
+      "description": "Adaptive granularity for AI assistants. Sorts every reply by what it costs you to read: the verdict at a glance, the working one press away on a wiki page, unexplored branches only if you ask. After each turn a band shows whether it is done and offers your usual replies; /ring lists every Claude session with a Close up per row. Blocks nothing.",
       "category": "productivity",
       "keywords": [
         "granularity",
